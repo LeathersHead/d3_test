@@ -1,0 +1,7 @@
+dataProcessingScripts/repositories/
+dataProcessingScripts/data/
+node_modules/
+*~
+*aggregatedData.json
+dataProcessingScripts/node_modules/
+.DS_Store
